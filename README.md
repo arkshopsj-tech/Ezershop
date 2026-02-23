@@ -1,0 +1,2 @@
+# Ezershop
+Plataforma online moderna
